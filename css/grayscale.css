@@ -289,19 +289,22 @@ a:focus {
     margin-top: 100px;
 }
 
+.wedding-map,
 .party-map {
   width: 100%;
 }
 
+img.bekkelaget-kirke,
 img.festen {
   width: 100%;
-  //width: 980px;
-  //height: 648px;
 }
 
+#gifts {
+  margin-bottom: 400px
+}
 @media(min-width:767px) {
     .content-section {
-        padding-top: 250px;
+        padding-top: 150px;
     }
 
     .party-section {
