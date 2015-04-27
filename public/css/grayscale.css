@@ -311,6 +311,7 @@ img.festen {
   width: 100%;
 }
 
+#taler,
 #gifts {
   margin-bottom: 400px
 }
@@ -320,7 +321,6 @@ img.festen {
     }
 
     .party-section {
-        padding: 100px 0;
     }
 
     #map {
